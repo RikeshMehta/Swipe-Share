@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978550006058",
+    "firebase_url": "https://swipeshare-fcea1.firebaseio.com",
+    "project_id": "swipeshare-fcea1",
+    "storage_bucket": "swipeshare-fcea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978550006058:android:a4fa015abafb5185",
+        "android_client_info": {
+          "package_name": "com.tinohacks.swipeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978550006058-e55u8e2pu3fad16doovbfdmjqilmt36h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinohacks.swipeshare",
+            "certificate_hash": "fce8a1d6271578b4fa8db3bd3704fd11faf586e9"
+          }
+        },
+        {
+          "client_id": "978550006058-b2fd8784p99obsq3r3cu433ca548bn61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN28uSnBsysFjooAm44CFVU_LRhMFx3mI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978550006058-b2fd8784p99obsq3r3cu433ca548bn61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
